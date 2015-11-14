@@ -1,0 +1,8 @@
+c:\users\филипп\documents\visual studio 2013\Projects\zapolnYlitkoi\zapolnYlitkoi\bin\Debug\zapolnYlitkoi.exe.config
+c:\users\филипп\documents\visual studio 2013\Projects\zapolnYlitkoi\zapolnYlitkoi\bin\Debug\zapolnYlitkoi.exe
+c:\users\филипп\documents\visual studio 2013\Projects\zapolnYlitkoi\zapolnYlitkoi\bin\Debug\zapolnYlitkoi.pdb
+c:\users\филипп\documents\visual studio 2013\Projects\zapolnYlitkoi\zapolnYlitkoi\bin\Debug\MyLibrary.dll
+c:\users\филипп\documents\visual studio 2013\Projects\zapolnYlitkoi\zapolnYlitkoi\bin\Debug\MyLibrary.pdb
+c:\users\филипп\documents\visual studio 2013\Projects\zapolnYlitkoi\zapolnYlitkoi\obj\Debug\zapolnYlitkoi.csprojResolveAssemblyReference.cache
+c:\users\филипп\documents\visual studio 2013\Projects\zapolnYlitkoi\zapolnYlitkoi\obj\Debug\zapolnYlitkoi.exe
+c:\users\филипп\documents\visual studio 2013\Projects\zapolnYlitkoi\zapolnYlitkoi\obj\Debug\zapolnYlitkoi.pdb
