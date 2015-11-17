@@ -6,3 +6,6 @@ c:\users\филипп\documents\visual studio 2013\Projects\zapolnYlitkoi\zapoln
 c:\users\филипп\documents\visual studio 2013\Projects\zapolnYlitkoi\zapolnYlitkoi\obj\Debug\zapolnYlitkoi.csprojResolveAssemblyReference.cache
 c:\users\филипп\documents\visual studio 2013\Projects\zapolnYlitkoi\zapolnYlitkoi\obj\Debug\zapolnYlitkoi.exe
 c:\users\филипп\documents\visual studio 2013\Projects\zapolnYlitkoi\zapolnYlitkoi\obj\Debug\zapolnYlitkoi.pdb
+C:\Users\филипп\Desktop\Защита компьютерной информации\zapolnYlitkoi\bin\Debug\zapolnYlitkoi.exe.config
+C:\Users\филипп\Desktop\Защита компьютерной информации\zapolnYlitkoi\obj\Debug\zapolnYlitkoi.exe
+C:\Users\филипп\Desktop\Защита компьютерной информации\zapolnYlitkoi\obj\Debug\zapolnYlitkoi.pdb
